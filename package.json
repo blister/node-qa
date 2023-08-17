@@ -9,6 +9,9 @@
   "scripts": {
     "test": "node-qa"
   },
+  "bin": {
+	  "node-qa": "./bin/node-qa.js"
+  }
   "repository": {
     "type": "git",
     "url": "git+https://github.com/blister/node-qa.git"
