@@ -1,0 +1,29 @@
+{
+  "name": "node-qa",
+  "version": "1.0.0",
+  "description": "Simple node unit test framework.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "node-qa"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blister/node-qa.git"
+  },
+  "keywords": [
+    "Unit",
+    "Testing",
+    "test",
+    "tdd",
+    "testing"
+  ],
+  "author": "Eric Ryan Harrison",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blister/node-qa/issues"
+  },
+  "homepage": "https://github.com/blister/node-qa#readme"
+}
