@@ -1,6 +1,6 @@
 {
   "name": "node-qa",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Simple node unit test framework.",
   "main": "index.js",
   "directories": {

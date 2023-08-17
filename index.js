@@ -1,2 +1,1 @@
-console.log("hello!");
-console.log(process.argv);
+module.exports = require('./lib/node-qa');
